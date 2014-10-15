@@ -1,0 +1,2 @@
+serviceClass: org.jackho.stockGwt.client.GreetingService
+path: B8C5CBB09B224DDDA29270E5712EA891.gwt.rpc
